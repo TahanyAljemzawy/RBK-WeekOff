@@ -1,0 +1,17 @@
+.bgimg{
+	background-image: url('images/headerimg.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+/*.myimg{
+
+	width: 150px;
+	height: 15px;
+	margin: 0 auto;
+	display: block;
+	padding-bottom: 10px;
+}*/
+
+
